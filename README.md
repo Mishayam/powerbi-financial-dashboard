@@ -2,6 +2,11 @@
 
 I created this Power BI report to bring sales, costs, profit and units sold into one view. I wanted to see the overall figures and then explore them by product, country and time period.
 
+
+## Dashboard preview
+
+![Dashboard screenshot](dashboard-preview.png)
+
 ## What is in the report
 
 - KPI cards for company-wide sales, costs, profit and units sold, plus a country count.
